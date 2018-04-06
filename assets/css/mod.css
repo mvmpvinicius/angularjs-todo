@@ -1,0 +1,32 @@
+body {
+  background-color: #e2e2e2;
+}
+
+.glyphicon-ok, .glyphicon-remove {
+  font-size: 22px;
+  float: right; 
+  cursor: pointer;
+}
+
+.glyphicon-ok {
+  color: #009966;
+}
+
+.glyphicon-remove {
+  color: #e54c3c;
+}
+
+.alerts {
+  width: 50%;
+  float: right;
+  position: relative;
+}
+
+.crossed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.panel {
+  box-shadow: 2px 2px #bdbdbd;
+}
